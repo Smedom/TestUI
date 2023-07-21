@@ -1,3 +1,7 @@
+import Page.DiskPage;
+import Page.LogOutPage;
+import Page.LoginPage;
+import Page.MainPage;
 import org.junit.jupiter.api.Test;
 
 public class FirstTest extends BaseTest {
